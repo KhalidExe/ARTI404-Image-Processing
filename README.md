@@ -43,11 +43,11 @@ To run the notebook (`Lab1tutorial.ipynb`), ensure the following libraries are i
 pip install numpy opencv-python matplotlib pillow
 ```
 ## 🚀 How to Run
-* **Clone the repository.
+* 1- Clone the repository.
 
-* **Navigate to the project folder.
+* 2- Navigate to the project folder.
 
-* **Launch Jupyter Notebook:
+* 3- Launch Jupyter Notebook:
 ```bash
 jupyter notebook Lab1tutorial.ipynb
 ```
