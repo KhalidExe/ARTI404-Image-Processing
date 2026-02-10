@@ -14,8 +14,8 @@
 
 | Lab | Topic | Status | Location | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Lab 1** | Basics of Programming | ✅ Completed | [Root Directory](./Lab1tutorial.ipynb) | *Kept in root to maintain submission link validity* |
-| **Lab 2** | Digital Image Fundamentals | ✅ Completed | [Lab2 Folder](./Lab2/Lab2.ipynb) | Image Sampling, Quantization & Operations |
+| **Lab 1** | Basics of Programming | ✅ Completed | [Lab 1 Folder](./Lab1/Lab1tutorial.ipynb) | Basics of OpenCV & NumPy |
+| **Lab 2** | Digital Image Fundamentals | ✅ Completed | [Lab 2 Folder](./Lab2/Lab2.ipynb) | Image Sampling, Quantization & Operations |
 
 ---
 
@@ -74,7 +74,7 @@ pip install numpy opencv-python matplotlib pillow
 For Lab 1:
 
 ```Bash
-jupyter notebook Lab1tutorial.ipynb
+jupyter notebook Lab1/Lab1tutorial.ipynb
 ```
 
 For Lab 2:
