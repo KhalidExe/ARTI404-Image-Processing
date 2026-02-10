@@ -70,9 +70,7 @@ pip install numpy opencv-python matplotlib pillow
 * 2- Navigate to the project folder.
 
 * 3- Launch Jupyter Notebook:
-```bash
-jupyter notebook Lab1tutorial.ipynb
-```
+
 For Lab 1:
 
 ```Bash
