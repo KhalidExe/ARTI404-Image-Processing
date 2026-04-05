@@ -16,10 +16,16 @@
 | **Lab 2** | Image Fundamentals | ✅ Completed | [📂 View Lab 2](./Lab2/) |
 | **Lab 3** | Image Manipulations | ✅ Completed | [📂 View Lab 3](./Lab3/) |
 | **Lab 4** | Intensity Transformations & Filtering | ✅ Completed | [📂 View Lab 4](./Lab4/) |
+| **Lab 5** | Spatial Filtering (Smoothing & Sharpening) | ✅ Completed | [📂 View Lab 5](./Lab5/) |
 
 ---
 
 ## 📗 Implementation Details
+
+### ✅ Lab 5: Spatial Filtering
+* **Task 1 (Box Filter):** Applied a 7x7 Box filter for image smoothing and noise reduction.
+* **Task 2 (Gaussian Filters):** Compared the effects of 5x5 and 21x21 Gaussian kernels on an image.
+* **Task 3 (Laplacian Filter):** Implemented image sharpening by subtracting a 3x3 Laplacian edge map from the original image using unsharp masking.
 
 ### ✅ Lab 4: Intensity Transformations & Filtering
 * **Task 1 (Contrast Stretching):** Rescaled image intensity values based on the 3rd and 80th percentiles to improve contrast.
