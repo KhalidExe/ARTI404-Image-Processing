@@ -19,10 +19,16 @@
 | **Lab 5** | Spatial Filtering (Smoothing & Sharpening) | ✅ Completed | [📂 View Lab 5](./Lab5/) |
 | **Lab 6** | Frequency Domain Filtering | ✅ Completed | [📂 View Lab 6](./Lab6/) |
 | **Lab 7** | Laplacian & Statistical Filters | ✅ Completed | [📂 View Lab 7](./Lab7/) |
+| **Lab 8** | Edge Detection Techniques | ✅ Completed | [📂 View Lab 8](./Lab%208/) |
 
 ---
 
 ## 📗 Implementation Details
+
+### ✅ Lab 8: Edge Detection
+* **Sobel & Prewitt:** Implemented first-order derivative filters to detect horizontal and vertical edges.
+* **Robert Operator:** Applied a 2x2 gradient-based mask for fast edge detection.
+* **Canny Edge Detector:** Utilized the multi-stage Canny algorithm for optimal edge localization and noise reduction.
 
 ### ✅ Lab 7: Laplacian & Statistical Filters
 * **Part A (Laplacian):** Implemented image sharpening using the Laplacian operator and `cv2.convertScaleAbs` for visual edge enhancement.
@@ -61,7 +67,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/KhalidExe/ARTI404-Image-Processing.git](https://github.com/KhalidExe/ARTI404-Image-Processing.git)
+   git clone https://github.com/KhalidExe/ARTI404-Image-Processing.git
+
    cd "ARTI404-Image-Processing"
    ```
 2. **Install the required libraries:**
