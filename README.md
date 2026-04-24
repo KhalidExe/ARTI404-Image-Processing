@@ -18,10 +18,15 @@
 | **Lab 4** | Intensity Transformations & Filtering | ✅ Completed | [📂 View Lab 4](./Lab4/) |
 | **Lab 5** | Spatial Filtering (Smoothing & Sharpening) | ✅ Completed | [📂 View Lab 5](./Lab5/) |
 | **Lab 6** | Frequency Domain Filtering | ✅ Completed | [📂 View Lab 6](./Lab6/) |
+| **Lab 7** | Laplacian & Statistical Filters | ✅ Completed | [📂 View Lab 7](./Lab7/) |
 
 ---
 
 ## 📗 Implementation Details
+
+### ✅ Lab 7: Laplacian & Statistical Filters
+* **Part A (Laplacian):** Implemented image sharpening using the Laplacian operator and `cv2.convertScaleAbs` for visual edge enhancement.
+* **Part B (Statistical Filters):** Developed custom filters including Midpoint, Alpha-trimmed, and Harmonic mean filters to handle various noise types (Gaussian, Salt & Pepper).
 
 ### ✅ Lab 6: Frequency Domain Filtering
 * **Task 1 (Sobel via FFT):** Applied Sobel edge detection filters (X and Y) in the frequency domain using Fast Fourier Transform (`np.fft.fft2`). Handled kernel padding, centering, and shifting (`ifftshift`) to prevent spatial displacement, and computed the final gradient magnitude.
