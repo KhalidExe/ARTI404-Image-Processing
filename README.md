@@ -19,7 +19,7 @@
 | **Lab 5** | Spatial Filtering (Smoothing & Sharpening) | ✅ Completed | [📂 View Lab 5](./Lab5/) |
 | **Lab 6** | Frequency Domain Filtering | ✅ Completed | [📂 View Lab 6](./Lab6/) |
 | **Lab 7** | Laplacian & Statistical Filters | ✅ Completed | [📂 View Lab 7](./Lab7/) |
-| **Lab 8** | Edge Detection Techniques | ✅ Completed | [📂 View Lab 8](./Lab%208/) |
+| **Lab 8** | Edge Detection Techniques | ✅ Completed | [📂 View Lab 8](./Lab8/) |
 
 ---
 
@@ -73,7 +73,7 @@
    ```
 2. **Install the required libraries:**
    ```bash
-   ip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. **Launch Jupyter Notebook:**
    ```bash
